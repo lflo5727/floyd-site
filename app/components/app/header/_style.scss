@@ -1,0 +1,12 @@
+.app-header {
+    background-color: white;
+    
+    .top-row {
+        align-items: center;
+        display: flex;
+
+        .external-link-container {
+            margin-left: auto;
+        }
+    }
+}
